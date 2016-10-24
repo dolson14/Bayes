@@ -354,27 +354,27 @@ Learning Only License (LOL)
     directly for a homework assignment is explicitly prohibited.
 
  *  The Learning Only License is subordinate to any other accompanying License
-    Agreement, and as such any use prohibited by accompanying License 
-    Agreements supersede any permission provided by the Learning Only License.
+    Agreement, and as such any prohibition of use by accompanying License 
+    Agreements supersedes any permission provided by the Learning Only License.
 
- *  Other than for the above exceptions, you may use this code freely, as is
-    or modified, for any purpose, including to redistribute the original code
-    and/or any modified version, provided such use is consistent with any 
-    other accompanying License Agreements and you do the following:
+ *  You may use this code freely, as is or modified, for any purpose not
+    explicitly prohibited by this or any accompanying License Agreements, 
+    including redistributing the original code and/or any modified version,
+    provided such use is consistent with any other accompanying License 
+    Agreements and you do the following:
 
     1.  Read through the code completely, including all of its comments.
     2.  Attempt to understand how it works.
     3.  Learn something from it.
-    4.  Do not simply copy code verbatim into another application; at the
-        very least, add comments explaining what you are using, why you
-        are using it, and where you obtained it.
+    4.  Do not simply copy any portion of the code verbatim into another
+        application; at the very least, add comments explaining what you are
+        using, why you are using it, and where you obtained it.
     5.  Hold only yourself responsible, and not the original author or the 
         author of any modifications, for any bugs in your application that are
         the result of your failure to understand the code.
     6.  Do not hold the original author or author of any modifications
         responsible for bugs in your application that are the results of the
-        author's mistakes. (Nobody is perfect. We all make mistakes. Nobody
-        knows everything.)
+        author's mistakes.
     7.  Attempt to contact the responsible author and report any bugs found in
         the original code or any modifications, explaining what is wrong with
         the code and why it is a bug, so that the responsible author may learn
