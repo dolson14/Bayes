@@ -1,3 +1,9 @@
+Copyright (c) 2016, David K. Olson
+All rights reserved.
+
+Use of this work is permitted under the following licenses.
+
+
 Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be
@@ -299,12 +305,9 @@ Section 8 – Interpretation.
 
 
 All software and code in this work is release under the following two license
-agreements:
+agreements.
 
 BSD 3-Clause License
-
-Copyright (c) 2016, David K. Olson
-All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -379,3 +382,5 @@ The BSD 3-Clause License is modified as follows.
         or modified code, you will attempt to contact the author(s) and thank
         them for their help.
 
+ *  For any issues to which the LOL-BSD3 license does not apply, rights revert
+    to those covered by the CC-BY-SA 4.0 license agreement.
